@@ -1,0 +1,7 @@
+NetProtocol: tcp
+ServerAddress: localhost
+ServerPort: :6060
+DataBaseAddress: localhost
+DataBasePort: :1234
+DataBaseType: ????
+DataBaseName: ????
